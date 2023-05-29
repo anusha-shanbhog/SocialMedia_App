@@ -1,2 +1,1 @@
-"# SocialMediaApp" 
-"# SocialMediaApp" 
+Social media app built using MERN Stack.
