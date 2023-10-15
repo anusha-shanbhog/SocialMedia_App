@@ -1,4 +1,4 @@
-Respomsive mern stack Social Media Application build using MongDB, NodeJS, ExpressJS for the backend and ReactJS and Redux toolkit for Frontend.
+Responsive mern stack Social Media Application build using MongDB, NodeJS, ExpressJS for the backend and ReactJS and Redux toolkit for Frontend.
 It allows users to login/signup, allows authenticated users to share posts, like, comment and engage with other users. Has a modern UI and an option of dark mode.
 
 Commads to run:
