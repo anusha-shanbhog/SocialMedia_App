@@ -2,17 +2,12 @@ Respomsive mern stack Social Media Application build using MongDB, NodeJS, Expre
 It allows users to login/signup, allows authenticated users to share posts, like, comment and engage with other users. Has a modern UI and an option of dark mode.
 
 Commads to run:
-- git clone https://github.com/anusha-shanbhog/SocialMedia_App
-
-- cd SocialMedia_App
-
-- cd client
-
-- npm start
-
-- cd server
-
-- node index.js
+1. git clone https://github.com/anusha-shanbhog/SocialMedia_App
+2. cd SocialMedia_App
+3. cd client
+4. npm start
+5. cd server
+6. node index.js
 
 Some screenshots:
 
