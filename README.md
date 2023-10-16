@@ -18,8 +18,6 @@ Some screenshots:
 
 
 
-![image](https://github.com/anusha-shanbhog/SocialMedia_App/assets/92755610/827a89ef-0261-4a48-9846-56e5010484d4)
-![image](https://github.com/anusha-shanbhog/SocialMedia_App/assets/92755610/a29e5ddc-f59c-4f08-94e0-008aa267ba3a)
 
 
 
